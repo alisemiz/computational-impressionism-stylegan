@@ -34,9 +34,9 @@ The model achieved its best performance at **512x512 resolution** with an **FID 
 *Generated samples demonstrating the "impasto" technique and lighting composition.*
 
 <p align="center">
-  <img src="results/512_sample1.png" width="30%" />
-  <img src="results/512_sample2.png" width="30%" />
-  <img src="results/512_sample3.png" width="30%" />
+  <img src="results/512_sample1.png.png" width="30%" />
+  <img src="results/512_sample2.png.png" width="30%" />
+  <img src="results/512_sample3.png.png" width="30%" />
 </p>
 
 ## 🛠️ Installation & Usage
